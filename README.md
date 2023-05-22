@@ -1,2 +1,2 @@
 # collection of my codewar solutions
-![Codewars](https://github.r2v.ch/codewars?user=joha4022/hide_clan=true)
+![Codewars](https://github.r2v.ch/codewars?user=joha4022?hide_clan=true)
