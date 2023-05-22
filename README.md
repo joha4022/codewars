@@ -1,2 +1,2 @@
 # collection of my codewar solutions
-https://www.codewars.com/users/joha4022/badges/micro
+![Codewars](https://github.r2v.ch/codewars?user=joha4022)
