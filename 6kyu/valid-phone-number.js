@@ -23,4 +23,8 @@ function validPhoneNumber(phoneNumber){
 
 validPhoneNumber("(123) 456-7819")
 
-// look into .test()
+// look into .test() & RegExp
+
+function validPhoneNumber(phoneNumber){
+    return / ^\( \d{3}\) \d{3}\-\d{4}$ /.test(phoneNumber);
+  }
